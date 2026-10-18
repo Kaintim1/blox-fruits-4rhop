@@ -5,7 +5,7 @@
 local TARGET_UPTIME_MINUTES = 180 -- 3 hours (Fist of Darkness / Chalice spawn)
 local UPTIME_TOLERANCE = 10 -- ±10 minutes tolerance
 local GAME_ID = 2753915549 -- Blox Fruits game ID
-local TARGET_SEA = 2 -- Second Sea (sea2) or 3 for Third Sea (sea3)
+local TARGET_SEA = 3 -- Second Sea (sea2) or 3 for Third Sea (sea3)
 
 -- Services
 local TeleportService = game:GetService("TeleportService")
